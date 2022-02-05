@@ -1,0 +1,6 @@
+.DS_Store
+*/.ipynb_checkpoints/*
+octave-workspace
+playground
+.ipynb_checkpoints
+.gitignore
